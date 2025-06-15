@@ -1,0 +1,29 @@
+/* frontend/src/components/Modal.css */
+.modal-body form .form-label {
+  color: #4A3C31;
+}
+.modal-body form .form-control {
+  background-color: #F9F1E3;
+  border: 1px solid #E0D7C8;
+}
+.modal-body form .btn-primary {
+  background-color: #8B6F47;
+  border-color: #8B6F47;
+}
+.modal-body form .btn-primary:hover {
+  background-color: #6B4E31;
+  border-color: #6B4E31;
+}
+.modal-body .alert {
+  margin-bottom: 15px;
+}
+
+.modal-body form .mb-3 {
+  margin-bottom: 15px;
+}
+.modal-body form label {
+  font-weight: bold;
+}
+.modal-body form input {
+  width: 100%;
+}

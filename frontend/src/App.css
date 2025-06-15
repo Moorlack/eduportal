@@ -1,0 +1,85 @@
+body {
+  background-color: #FFF8E8;
+  color: #4A3C31;
+}
+
+.navbar {
+  background-color: #F5E8C7;
+  border-bottom: 1px solid #E0D7C8;
+}
+
+.navbar-brand,
+.nav-link {
+  color: #8B6F47 !important;
+}
+
+.nav-link:hover {
+  color: #6B4E31 !important;
+}
+
+.container {
+  background-color: #FFF8E8;
+  padding: 20px;
+}
+
+h1,
+h2,
+h3 {
+  color: #8B6F47;
+}
+
+.list-group-item {
+  background-color: #F9F1E3;
+  border: 1px solid #E0D7C8;
+}
+
+.list-group-item .h3 {
+  color: #8B6F47;
+  margin-bottom: 10px;
+}
+
+.list-group-item p {
+  color: #4A3C31;
+}
+
+footer {
+  background-color: #F5E8C7;
+  padding: 10px 0;
+  text-align: center;
+  border-top: 1px solid #E0D7C8;
+}
+
+footer p {
+  color: #4A3C31;
+  margin: 0;
+}
+
+.btn-primary {
+  background-color: #8B6F47;
+  border-color: #8B6F47;
+}
+
+.btn-primary:hover {
+  background-color: #6B4E31;
+  border-color: #6B4E31;
+}
+
+/* Modal.css */
+.modal-body form .form-label {
+  color: #4A3C31;
+}
+.modal-body form .form-control {
+  background-color: #F9F1E3;
+  border: 1px solid #E0D7C8;
+}
+.modal-body form .btn-primary {
+  background-color: #8B6F47;
+  border-color: #8B6F47;
+}
+.modal-body form .btn-primary:hover {
+  background-color: #6B4E31;
+  border-color: #6B4E31;
+}
+.modal-body .alert {
+  margin-bottom: 15px;
+}
